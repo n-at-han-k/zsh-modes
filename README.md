@@ -1,5 +1,7 @@
 # zsh-modes
 
+[![Ask DeepWiki](https://deepwiki.com/badge.svg)](https://deepwiki.com/n-at-han-k/zsh-modes)
+
 Switchable REPL modes for zsh. Enter a mode and your shell transforms — every
 line you type gets dispatched through that mode's handler.
 
